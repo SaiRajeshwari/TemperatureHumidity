@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temperature Humidity</string>
+    <string name="temp_humidity">Temperature &amp; Humidity</string>
+    <string name="temperature">Temperature(F)</string>
+    <string name="humidity">Humidity(%)</string>
+    <string name="set">Set</string>
+    <string name="cancel">Cancel</string>
+</resources>
